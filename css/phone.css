@@ -1,0 +1,28 @@
+
+/* Serives */
+#services-container::before{
+    height: 1353px;
+ 
+ }
+
+
+
+
+/* Home Section */
+ #home p{
+    font-size: 13px;
+}
+
+ /* Utility Classes */
+
+.h-primary{
+    font-size: 1.6rem;
+}
+
+.h-secondary{
+    font-size: 1.4rem;
+}
+.btn{
+    font-size: 13px;
+    padding: 5px 10px;
+}
